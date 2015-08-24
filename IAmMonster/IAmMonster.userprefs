@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\World.cs">
+    <Files>
+      <File FileName="Assets\Code\Human.cs" Line="202" Column="1" />
+      <File FileName="Assets\Code\Monster.cs" Line="112" Column="52" />
+      <File FileName="Assets\Code\World.cs" Line="86" Column="8" />
+      <File FileName="Assets\Code\KillSphere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\TouchSphere.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
